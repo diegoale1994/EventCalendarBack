@@ -59,7 +59,6 @@ const loginUsuario = async (req, res = response) => {
         }
 
         const { id, name } = usuarioBD;
-        console.log(usuarioBD)
 
         //confirmar los passwords
 
